@@ -1,0 +1,24 @@
+{
+    "CreationTime": "2023-01-24T14:22:37",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "CreateResponse",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10037ffea43b46aa",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "uE3vGMKJ3EWMoQ-2BlLeWUAPFbL1kCBHsZYF4cDDTpBUNkE2MURRWkdSQ0ZRUTZZV1ZNOTYxMTI4VCQlQCNjPTEu",
+    "UserId": "jdoe@gravywhale.com",
+    "ActivityParameters": "{\"ResponseId\":52}",
+    "FormId": "uE3vGMKJ3EWMoQ-2BlLeWUAPFbL1kCBHsZYF4cDDTpBUNkE2MURRWkdSQ0ZRUTZZV1ZNOTYxMTI4VCQlQCNjPTEu",
+    "FormName": "Getting to Know Each Other: The Basics - Semester 2",
+    "FormsUserType": 3,
+    "SourceApp": "ms-formweb",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "CreationTime": "2023-01-24T14:23:04",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MailItemsAccessed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 50,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10037FFEA337A2D3",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "Exchange",
+    "UserId": "jdoe@gravywhale.com",
+    "ClientIPAddress": "1.2.3.4",
+    "ClientInfoString": "Client=MSExchangeRPC",
+    "ExternalAccess": false,
+    "InternalLogonType": 0,
+    "LogonType": 0,
+    "LogonUserSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxGuid": "00000000-0000-0000-0000-000000000000",
+    "MailboxOwnerSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxOwnerUPN": "jdoe@gravywhale.com",
+    "OperationProperties": [
+        {
+            "Name": "MailAccessType",
+            "Value": "Bind"
+        },
+        {
+            "Name": "IsThrottled",
+            "Value": "False"
+        }
+    ],
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "SessionId": "00000000-0000-0000-0000-000000000000",
+    "Folders": [
+        {
+            "FolderItems": [
+                {
+                    "ClientRequestId": "{BC88440F-0D09-489D-A716-95ED4546C8DD}",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 410675
+                }
+            ],
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Path": "\\Inbox"
+        },
+        {
+            "FolderItems": [
+                {
+                    "ClientRequestId": "{E9465237-5D6C-4160-A676-7D5D9B11D505}",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 66597
+                },
+                {
+                    "ClientRequestId": "{8A4F2C50-F284-444A-9C02-3AF0395D8074}",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 74841
+                },
+                {
+                    "ClientRequestId": "{BF571906-F6EF-4E7C-A8C2-6A034934BB4C}",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 54936
+                },
+                {
+                    "ClientRequestId": "{44C690A7-1654-4C7A-BDE3-EDBB630FCEB4}",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 59502
+                },
+                {
+                    "ClientRequestId": "{4FAFC739-B947-4D98-818B-56F44B8CC01E}",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 61508
+                },
+                {
+                    "ClientRequestId": "{77B36EC9-2C36-4A3D-80B6-1CDD2E588F63}",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 58539
+                }
+            ],
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Path": "\\Power School"
+        }
+    ],
+    "OperationCount": 7
+}

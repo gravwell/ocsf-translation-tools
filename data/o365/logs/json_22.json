@@ -1,0 +1,25 @@
+{
+    "CreationTime": "2023-01-24T14:21:15",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ViewResponses",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10030000a47458de",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "uE3vGMKJ3EWMoQ-2BlLeWRchQvLtTidIm4xq_6lWPk5URFlCQ0JKVEJOUVU3SDhUSEs5NlhFSDc0UyQlQCN0PWcu",
+    "UserId": "jdoe@gravywhale.com",
+    "ActivityParameters": "{\"ViewType\":\"Runtime\"}",
+    "FormId": "uE3vGMKJ3EWMoQ-2BlLeWRchQvLtTidIm4xq_6lWPk5URFlCQ0JKVEJOUVU3SDhUSEs5NlhFSDc0UyQlQCN0PWcu",
+    "FormName": "\u2705Check-in - African American Studies (AFRICAN AMERICAN STUDIES)",
+    "FormType": 1,
+    "FormsUserType": 3,
+    "SourceApp": "ms-assignments",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

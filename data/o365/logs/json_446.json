@@ -1,0 +1,142 @@
+{
+    "CreationTime": "2023-01-24T14:21:30",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Add device.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "Not Available",
+    "UserType": 4,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "Device_00000000-0000-0000-0000-000000000000",
+    "UserId": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Device"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "AccountEnabled",
+            "NewValue": "[\r\n  true\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudAccountEnabled",
+            "NewValue": "[\r\n  true\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudDeviceOSType",
+            "NewValue": "[\r\n  \"Windows\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudDeviceOSVersion",
+            "NewValue": "[\r\n  \"10.0.22000.1455\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudDisplayName",
+            "NewValue": "[\r\n  \"DESKTOP-OQ7HP0T\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudCreated",
+            "NewValue": "[\r\n  true\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceId",
+            "NewValue": "[\r\n  \"bb3172c3-f71b-4525-90b3-65d3519c6d9a\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceObjectVersion",
+            "NewValue": "[\r\n  2\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceOSType",
+            "NewValue": "[\r\n  \"Windows\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceOSVersion",
+            "NewValue": "[\r\n  \"10.0.22000.1455\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DevicePhysicalIds",
+            "NewValue": "[\r\n  \"[HWID]:h:6825801962624087\",\r\n  \"[USER-HWID]:a6f0a0ec-7b57-4e10-b86c-1b91d5a879b9:6825801962624087\",\r\n  \"[GID]:g:6755443111542114\",\r\n  \"[USER-GID]:a6f0a0ec-7b57-4e10-b86c-1b91d5a879b9:6755443111542114\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceTrustType",
+            "NewValue": "[\r\n  \"Workplace\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DisplayName",
+            "NewValue": "[\r\n  \"DESKTOP-OQ7HP0T\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "Included Updated Properties",
+            "NewValue": "AccountEnabled, CloudAccountEnabled, CloudDeviceOSType, CloudDeviceOSVersion, CloudDisplayName, CloudCreated, DeviceId, DeviceObjectVersion, DeviceOSType, DeviceOSVersion, DevicePhysicalIds, DeviceTrustType, DisplayName",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "Device Registration Service",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "Device_f5f3a924-606c-42f9-8368-f34c507e1964",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "DESKTOP-OQ7HP0T",
+            "Type": 1
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}

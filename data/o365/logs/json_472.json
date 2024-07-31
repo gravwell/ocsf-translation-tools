@@ -1,0 +1,92 @@
+{
+    "CreationTime": "2023-01-24T14:21:31",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Update device.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "Not Available",
+    "UserType": 4,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "Device_00000000-0000-0000-0000-000000000000",
+    "UserId": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Device"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "Included Updated Properties",
+            "NewValue": "",
+            "OldValue": ""
+        },
+        {
+            "Name": "TargetId.DeviceId",
+            "NewValue": "00000000-0000-0000-0000-000000000000",
+            "OldValue": ""
+        },
+        {
+            "Name": "TargetId.DeviceOSType",
+            "NewValue": "Windows",
+            "OldValue": ""
+        },
+        {
+            "Name": "TargetId.DeviceTrustType",
+            "NewValue": "AzureAd",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "Device Registration Service",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "Device_83514a68-aba3-4584-ad2f-b46dff6f3905",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "FWC-DGCL403",
+            "Type": 1
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}

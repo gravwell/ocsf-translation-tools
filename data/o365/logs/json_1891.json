@@ -1,0 +1,29 @@
+{
+    "CreationTime": "2023-01-24T14:22:12",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MemberAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "::ffff:52.113.206.107",
+    "UserId": "jdoe@gravywhale.com",
+    "AADGroupId": "00000000-0000-0000-0000-000000000000",
+    "CommunicationType": "Team",
+    "ExtraProperties": [],
+    "Members": [
+        {
+            "DisplayName": "Central High School (Admin)",
+            "Role": 2,
+            "UPN": "chs-admin@bridgeportedu.net"
+        }
+    ],
+    "TeamGuid": "19:ZGpLCBLhleSixxN-pMFo4ONo_oh0deOunGdi2wMTKTY1@thread.tacv2",
+    "ItemName": "COLLEGE _ CAREER READINESS FOR AP I",
+    "TeamName": "COLLEGE _ CAREER READINESS FOR AP I",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

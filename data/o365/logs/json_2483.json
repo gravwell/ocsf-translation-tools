@@ -1,0 +1,77 @@
+{
+    "CreationTime": "2023-01-24T14:22:29",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Set Company Information.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "jdoe@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "Company_00000000-0000-0000-0000-000000000000",
+    "UserId": "jdoe@gravywhale.com",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Company"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "Included Updated Properties",
+            "NewValue": "",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 3
+        },
+        {
+            "ID": "User_fb1ca7e9-d413-492b-85b9-0672629ce2fd",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "Company_18ef4db8-89c2-45dc-8ca1-0fb60652de59",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "Bridgeport Public Schools",
+            "Type": 1
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}

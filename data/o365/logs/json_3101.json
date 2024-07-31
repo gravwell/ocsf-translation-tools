@@ -1,0 +1,41 @@
+{
+    "AppAccessContext": {
+        "ClientAppId": "00000000-0000-0000-0000-000000000000",
+        "ClientAppName": "Microsoft Teams",
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:41",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "FileRenamed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 6,
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "SharePoint",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "jdoe@gravywhale.com",
+    "ApplicationDisplayName": "Microsoft Teams",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "File",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.36367 Chrome/96.0.4664.174 Electron/16.2.8 Safari/537.36",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "DestinationFileExtension": "docx",
+    "HighPriorityMediaProcessing": false,
+    "IsManagedDevice": false,
+    "SourceFileExtension": "docx",
+    "DestinationFileName": "SUPERCOOLFILENAME.docx",
+    "DestinationRelativeUrl": "Class Files/Assignments/CCR Questionnaire",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "SourceFileName": "Becuase I Said So.docx",
+    "SourceRelativeUrl": "Documents/Desktop",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

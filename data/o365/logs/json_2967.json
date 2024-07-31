@@ -1,0 +1,29 @@
+{
+    "AppAccessContext": {
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:37",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "FileVersionsAllDeleted",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 6,
+    "UserKey": "S-1-0-0",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "SharePoint",
+    "ClientIP": "",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "SHAREPOINT\\system",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "File",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "SourceFileExtension": "jpg",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "SourceFileName": "Becuase I Said So.docx",
+    "SourceRelativeUrl": "Documents/Desktop"
+}

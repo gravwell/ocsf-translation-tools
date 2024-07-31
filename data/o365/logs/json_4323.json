@@ -1,0 +1,35 @@
+{
+    "CreationTime": "2023-01-24T14:23:16",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MemberAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "::ffff:52.114.128.197",
+    "UserId": "jdoe@gravywhale.com",
+    "AADGroupId": "00000000-0000-0000-0000-000000000000",
+    "CommunicationType": "Team",
+    "ExtraProperties": [],
+    "Members": [
+        {
+            "DisplayName": "Diego Urbano-Pacheco (Student)",
+            "Role": 1,
+            "UPN": "10059619@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Jack Kravec (Student)",
+            "Role": 1,
+            "UPN": "10061331@bridgeportedu.net"
+        }
+    ],
+    "TeamGuid": "19:QHViSLGxHclrRG9MhawTRPvm31vn3yMwO0rAexoUzc01@thread.tacv2",
+    "ItemName": "CAPSTONE 1",
+    "TeamName": "CAPSTONE 1",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

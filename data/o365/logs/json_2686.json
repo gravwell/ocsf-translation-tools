@@ -1,0 +1,42 @@
+{
+    "AppAccessContext": {
+        "ClientAppId": "00000000-0000-0000-0000-000000000000",
+        "ClientAppName": "00000000-0000-0000-0000-000000000000",
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:32",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "WACTokenShared",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 6,
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "OneDrive",
+    "ClientIP": "2603:1036:302:40c6::5",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "jdoe@gravywhale.com",
+    "ApplicationDisplayName": "00000000-0000-0000-0000-000000000000",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "File",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "Exchange/15.20.6002.33/Outlook Web App",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "DestinationFileExtension": "docx",
+    "HighPriorityMediaProcessing": false,
+    "IsManagedDevice": false,
+    "SharingType": "App [00000002-0000-0ff1-ce00-000000000000] requested WAC token.",
+    "SourceFileExtension": "docx",
+    "DestinationFileName": "SUPERCOOLFILENAME.docx",
+    "DestinationRelativeUrl": "Documents",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "SourceFileName": "Becuase I Said So.docx",
+    "SourceRelativeUrl": "Documents/Desktop",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

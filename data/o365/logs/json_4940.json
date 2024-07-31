@@ -1,0 +1,21 @@
+{
+    "CreationTime": "2023-01-24T14:23:26",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "DeleteForm",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "uE3vGMKJ3EWMoQ-2BlLeWaoMUTuIB2pLqJiOm1GVfIBUQTIzTkk0TUY2VUxOM1JXV1pLU0gzSjRXOSQlQCN0PWcu",
+    "UserId": "jdoe@gravywhale.com",
+    "ActivityParameters": "{\"Action\":\"Restored Soft-deleted\"}",
+    "FormId": "uE3vGMKJ3EWMoQ-2BlLeWaoMUTuIB2pLqJiOm1GVfIBUQTIzTkk0TUY2VUxOM1JXV1pLU0gzSjRXOSQlQCN0PWcu",
+    "FormName": "1st Period Civics Pre-Test (Mr Smith Civics '23 Q3P2)",
+    "FormType": 1,
+    "FormsUserType": 3,
+    "SourceApp": "ms-assignment"
+}

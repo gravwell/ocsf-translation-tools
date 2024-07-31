@@ -1,0 +1,94 @@
+{
+    "CreationTime": "2023-01-24T14:21:22",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MailItemsAccessed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 50,
+    "ResultStatus": "Succeeded",
+    "UserKey": "1003BFFDA336C97E",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "Exchange",
+    "UserId": "jdoe@gravywhale.com",
+    "AppId": "00000000-0000-0000-0000-000000000000",
+    "ClientIPAddress": "1.2.3.4",
+    "ClientInfoString": "Client=OWA;Action=ViaProxy",
+    "ExternalAccess": false,
+    "InternalLogonType": 0,
+    "LogonType": 0,
+    "LogonUserSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxGuid": "00000000-0000-0000-0000-000000000000",
+    "MailboxOwnerSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxOwnerUPN": "jdoe@gravywhale.com",
+    "OperationProperties": [
+        {
+            "Name": "MailAccessType",
+            "Value": "Bind"
+        },
+        {
+            "Name": "IsThrottled",
+            "Value": "False"
+        }
+    ],
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "SessionId": "00000000-0000-0000-0000-000000000000",
+    "Folders": [
+        {
+            "FolderItems": [
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 92134
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 53949
+                }
+            ],
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Path": "\\Inbox"
+        },
+        {
+            "FolderItems": [
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 5132
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 8309
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 3923
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 6369
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 188203
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 5344
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 4154
+                },
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 835344
+                }
+            ],
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Path": "\\Drafts"
+        }
+    ],
+    "OperationCount": 10,
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

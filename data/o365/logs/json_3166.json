@@ -1,0 +1,152 @@
+{
+    "CreationTime": "2023-01-24T14:22:43",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Add device.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "Not Available",
+    "UserType": 4,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "Device_00000000-0000-0000-0000-000000000000",
+    "UserId": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Device"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "AccountEnabled",
+            "NewValue": "[\r\n  true\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudAccountEnabled",
+            "NewValue": "[\r\n  true\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudDeviceOSType",
+            "NewValue": "[\r\n  \"Windows\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudDeviceOSVersion",
+            "NewValue": "[\r\n  \"10.0.22000.1455\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudDisplayName",
+            "NewValue": "[\r\n  \"DESKTOP-MCM2QKI\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "CloudCreated",
+            "NewValue": "[\r\n  true\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceId",
+            "NewValue": "[\r\n  \"9978d71e-a664-421e-81d8-526fbe013a6b\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceObjectVersion",
+            "NewValue": "[\r\n  2\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceOSType",
+            "NewValue": "[\r\n  \"Windows\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceOSVersion",
+            "NewValue": "[\r\n  \"10.0.22000.1455\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DevicePhysicalIds",
+            "NewValue": "[\r\n  \"[HWID]:h:6825801942908404\",\r\n  \"[USER-HWID]:271fbd84-47f8-4116-a02e-303b8163a4c4:6825801942908404\",\r\n  \"[GID]:g:6825809410764951\",\r\n  \"[USER-GID]:271fbd84-47f8-4116-a02e-303b8163a4c4:6825809410764951\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DeviceTrustType",
+            "NewValue": "[\r\n  \"Workplace\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "DisplayName",
+            "NewValue": "[\r\n  \"DESKTOP-MCM2QKI\"\r\n]",
+            "OldValue": "[]"
+        },
+        {
+            "Name": "Included Updated Properties",
+            "NewValue": "AccountEnabled, CloudAccountEnabled, CloudDeviceOSType, CloudDeviceOSVersion, CloudDisplayName, CloudCreated, DeviceId, DeviceObjectVersion, DeviceOSType, DeviceOSVersion, DevicePhysicalIds, DeviceTrustType, DisplayName",
+            "OldValue": ""
+        },
+        {
+            "Name": "ActorId.ServicePrincipalNames",
+            "NewValue": "00000000-0000-0000-0000-0000000059a9;urn:ms-drs:enterpriseregistration.windows.net;urn:ms-drs:enterpriseregistration.microsoftonline.us",
+            "OldValue": ""
+        },
+        {
+            "Name": "SPN",
+            "NewValue": "00000000-0000-0000-0000-0000000059a9;urn:ms-drs:enterpriseregistration.windows.net;urn:ms-drs:enterpriseregistration.microsoftonline.us",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "Device Registration Service",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "Device_fd868cc1-7825-44b4-b267-c1ef80110db1",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "DESKTOP-MCM2QKI",
+            "Type": 1
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}

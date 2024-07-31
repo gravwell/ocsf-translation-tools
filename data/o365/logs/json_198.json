@@ -1,0 +1,28 @@
+{
+    "CreationTime": "2023-01-24T14:21:22",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MemberRemoved",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "UserId": "jdoe@gravywhale.com",
+    "AADGroupId": "00000000-0000-0000-0000-000000000000",
+    "CommunicationType": "Team",
+    "ExtraProperties": [],
+    "Members": [
+        {
+            "DisplayName": "Valentina Mejia (Student)",
+            "Role": 1,
+            "UPN": "10000826@bridgeportedu.net"
+        }
+    ],
+    "TeamGuid": "19:ZGpLCBLhleSixxN-pMFo4ONo_oh0deOunGdi2wMTKTY1@thread.tacv2",
+    "ItemName": "COLLEGE _ CAREER READINESS FOR AP I",
+    "TeamName": "COLLEGE _ CAREER READINESS FOR AP I",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

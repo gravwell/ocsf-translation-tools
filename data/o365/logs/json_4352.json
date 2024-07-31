@@ -1,0 +1,75 @@
+{
+    "CreationTime": "2023-01-24T14:23:16",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MemberAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "::ffff:52.114.128.197",
+    "UserId": "jdoe@gravywhale.com",
+    "AADGroupId": "00000000-0000-0000-0000-000000000000",
+    "CommunicationType": "Team",
+    "ExtraProperties": [],
+    "Members": [
+        {
+            "DisplayName": "Ludin Garcia (Student)",
+            "Role": 1,
+            "UPN": "10042389@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Nicholas Scioli (Student)",
+            "Role": 1,
+            "UPN": "10042435@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Jacob Traussi (Student)",
+            "Role": 1,
+            "UPN": "10042436@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Silvino Cristiano Rio (Student)",
+            "Role": 1,
+            "UPN": "10042434@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Wyatt Bloom (Student)",
+            "Role": 1,
+            "UPN": "10042565@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Latima Rush (Student)",
+            "Role": 1,
+            "UPN": "10004599@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Tyler Rock (Student)",
+            "Role": 1,
+            "UPN": "10043069@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "MeKayla Mellers (Student)",
+            "Role": 1,
+            "UPN": "10008393@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Rafael Alvarez (Student)",
+            "Role": 1,
+            "UPN": "10001033@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Fallou Faye (Student)",
+            "Role": 1,
+            "UPN": "10051913@bridgeportedu.net"
+        }
+    ],
+    "TeamGuid": "19:QHViSLGxHclrRG9MhawTRPvm31vn3yMwO0rAexoUzc01@thread.tacv2",
+    "ItemName": "CAPSTONE 1",
+    "TeamName": "CAPSTONE 1",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

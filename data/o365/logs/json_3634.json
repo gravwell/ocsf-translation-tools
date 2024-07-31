@@ -1,0 +1,23 @@
+{
+    "CreationTime": "2023-01-24T14:22:59",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ViewRuntimeForm",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10037ffea43b46aa",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "uE3vGMKJ3EWMoQ-2BlLeWUAPFbL1kCBHsZYF4cDDTpBUN1U3S09QTTNTRjU4U0NWVEhGVTVUOTBXWiQlQCNjPTEu",
+    "UserId": "jdoe@gravywhale.com",
+    "FormId": "uE3vGMKJ3EWMoQ-2BlLeWUAPFbL1kCBHsZYF4cDDTpBUN1U3S09QTTNTRjU4U0NWVEhGVTVUOTBXWiQlQCNjPTEu",
+    "FormName": "Exit Slip Week of 01/23/23 - 01/26/23",
+    "FormsUserType": 3,
+    "SourceApp": "unknown",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "AppAccessContext": {
+        "ClientAppId": "00000000-0000-0000-0000-000000000000",
+        "CorrelationId": "00000000-0000-0000-0000-000000000000",
+        "UniqueTokenId": "0000000000000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:17",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "SharingSet",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 14,
+    "UserKey": "i:00.t|00000000-0000-0000-0000-000000000000|app@sharepoint",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "SharePoint",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "app@sharepoint",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "Folder",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "onenoteedunotebookapiasyncprocessor",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "EventData": "<Permissions granted>Full Control</Permissions granted><MembersCanShareApplied>False</MembersCanShareApplied>",
+    "TargetUserOrGroupType": "Member",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "SourceRelativeUrl": "Documents/Desktop",
+    "TargetUserOrGroupName": "123456789@gravywhale.com"
+}

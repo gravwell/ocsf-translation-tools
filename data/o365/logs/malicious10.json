@@ -1,0 +1,34 @@
+{
+    "AppAccessContext": {
+        "AADSessionId": "00000000-0000-0000-0000-000000000000",
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-19T12:21:15",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "FileDownloaded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 6,
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "OneDrive",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Confidential/Important10.docx",
+    "UserId": "admin3@gravywhale.com",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "File",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "MSWAC",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "FileSizeBytes": 2667962,
+    "SourceFileExtension": "docx",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "SourceFileName": "Important10.docx",
+    "SourceRelativeUrl": "Documents/Confidential",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

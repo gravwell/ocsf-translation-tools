@@ -1,0 +1,102 @@
+{
+    "CreationTime": "2023-01-24T14:22:11",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Add member to group.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "jdoe@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "chs-admin@bridgeportedu.net",
+    "UserId": "jdoe@gravywhale.com",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Group"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "Group.ObjectID",
+            "NewValue": "00000000-0000-0000-0000-000000000000",
+            "OldValue": ""
+        },
+        {
+            "Name": "Group.DisplayName",
+            "NewValue": "VERY FUN NEW FILE NAME",
+            "OldValue": ""
+        },
+        {
+            "Name": "Group.WellKnownObjectName",
+            "NewValue": "",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 3
+        },
+        {
+            "ID": "Microsoft Teams Services",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "User_f63474d3-336c-447e-90da-f28a6b47294b",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "User_6a900bd2-134d-498d-baa7-2c96e42bdfb8",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "chs-admin@bridgeportedu.net",
+            "Type": 5
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 3
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "AppAccessContext": {
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:05",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "FileCopied",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 4,
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "SharePoint",
+    "ClientIP": "",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "jdoe@gravywhale.com",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "CustomUniqueId": false,
+    "EventSource": "SharePoint",
+    "ItemType": "File",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "EventData": "<SourceFileGeo>NAM</SourceFileGeo><TargetFileGeo>NAM</TargetFileGeo><SourceFileUrl>https://bridgeportedunet-my.sharepoint.com/personal/8063093_bridgeportedu_net/Documents/Document1_3.docx</SourceFileUrl><TargetFileUrl>https://bridgeportedunet.sharepoint.com/sites/Section_289447/Student Work/Working files/Denisse Cruz (Student)/Classwork_ Tuesday, January 24, 2023/Document1_3.docx</TargetFileUrl><TargetWebUrl>https://bridgeportedunet.sharepoint.com/sites/Section_289447</TargetWebUrl><SourceItemId>3f78c219-774c-4dcd-814c-c10f467be1b7</SourceItemId><TargetItemId>27c70921-51d0-42ec-aa9e-11eba8f8eec8</TargetItemId><SourceSiteId>9a498b1e-e4cb-4229-b3e9-881ccc93cbe5</SourceSiteId><SourceWebId>9ee0f59d-40aa-489a-89d3-c4404b488496</SourceWebId>",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

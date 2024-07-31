@@ -1,0 +1,24 @@
+{
+    "CreationTime": "2023-01-24T14:22:47",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MessageReadReceiptReceived",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "UserId": "jdoe@gravywhale.com",
+    "ChatThreadId": "19:42589949-db1d-4684-92a5-838b61394a98_43728003-b284-45c6-adda-17e0dacbc185@unq.gbl.spaces",
+    "CommunicationType": "GroupChat",
+    "ExtraProperties": [],
+    "MessageId": "1674569235862",
+    "MessageVersion": "0",
+    "MessageVisibilityTime": "2023-01-23T15:22:12",
+    "ItemName": "19:42589949-db1d-4684-92a5-838b61394a98_43728003-b284-45c6-adda-17e0dacbc185@unq.gbl.spaces",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

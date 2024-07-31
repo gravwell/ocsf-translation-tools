@@ -1,0 +1,50 @@
+{
+    "CreationTime": "2023-01-24T14:22:00",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MoveToDeletedItems",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 3,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10037FFEA337A2D3",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "Exchange",
+    "ClientIP": "1.2.3.4",
+    "UserId": "jdoe@gravywhale.com",
+    "ClientIPAddress": "1.2.3.4",
+    "ClientInfoString": "Client=MSExchangeRPC",
+    "ClientProcessName": "OUTLOOK.EXE",
+    "ClientRequestId": "{3D64ADA1-2004-449C-91CF-30C103249BA2}",
+    "ClientVersion": "16.0.14332.20431",
+    "ExternalAccess": false,
+    "InternalLogonType": 0,
+    "LogonType": 0,
+    "LogonUserSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxGuid": "00000000-0000-0000-0000-000000000000",
+    "MailboxOwnerSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxOwnerUPN": "jdoe@gravywhale.com",
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "SessionId": "00000000-0000-0000-0000-000000000000",
+    "AffectedItems": [
+        {
+            "Attachments": "image001.png (42807b)",
+            "Id": "RgAAAAAoorvjdcjVQqpSr9b6Vaz2BwCH7MP1wqghS5RnE3EJ50isAAAAAAEMAACZYx4BGyTJRK8r2gA+nDdbAANBFSzZAAAA",
+            "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+            "ParentFolder": {
+                "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+                "Path": "\\Inbox"
+            },
+            "Subject": "Re: Early Graduates"
+        }
+    ],
+    "CrossMailboxOperation": false,
+    "DestFolder": {
+        "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+        "Path": "\\Deleted Items"
+    },
+    "Folder": {
+        "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+        "Path": "\\Inbox"
+    }
+}

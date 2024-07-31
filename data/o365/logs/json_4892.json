@@ -1,0 +1,20 @@
+{
+    "CreationTime": "2023-01-24T14:23:24",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ListForms",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10030000a374ae8e",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "UserId": "jdoe@gravywhale.com",
+    "ActivityParameters": "{\"ViewType\":\"AllForms\"}",
+    "FormsUserType": 1,
+    "SourceApp": "ms-startpage",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

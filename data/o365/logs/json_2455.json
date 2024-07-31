@@ -1,0 +1,36 @@
+{
+    "AppAccessContext": {
+        "ClientAppId": "00000000-0000-0000-0000-000000000000",
+        "CorrelationId": "00000000-0000-0000-0000-000000000000",
+        "UniqueTokenId": "0000000000000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:28",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "SiteCollectionAdminAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 14,
+    "UserKey": "i:00.t|00000000-0000-0000-0000-000000000000|app@sharepoint",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "SharePoint",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "app@sharepoint",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "Web",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "onenoteeduassignmentsbackgroundcreate",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "ModifiedProperties": [
+        {
+            "Name": "SiteAdmin",
+            "NewValue": "jdoe@gravywhale.com",
+            "OldValue": ""
+        }
+    ],
+    "TargetUserOrGroupType": "Member",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "TargetUserOrGroupName": "123456789@gravywhale.com"
+}

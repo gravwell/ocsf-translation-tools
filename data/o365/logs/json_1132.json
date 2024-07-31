@@ -1,0 +1,47 @@
+{
+    "CreationTime": "2023-01-24T14:21:50",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Set-Mailbox",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 1,
+    "ResultStatus": "True",
+    "UserKey": "NT AUTHORITY\\SYSTEM (w3wp)",
+    "UserType": 2,
+    "Version": 1,
+    "Workload": "Exchange",
+    "ClientIP": "40.122.108.72:11044",
+    "ObjectId": "10048334",
+    "UserId": "NT AUTHORITY\\SYSTEM (w3wp)",
+    "AppId": "00000000-0000-0000-0000-000000000000",
+    "ClientAppId": "00000000-0000-0000-0000-000000000000",
+    "ExternalAccess": false,
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "Parameters": [
+        {
+            "Name": "ResourceEmailAddresses",
+            "Value": "True"
+        },
+        {
+            "Name": "BypassLiveId",
+            "Value": "True"
+        },
+        {
+            "Name": "Force",
+            "Value": "True"
+        },
+        {
+            "Name": "DomainController",
+            "Value": "SWEETEXCHANGESERVER.PROD.OUTLOOK.COM"
+        },
+        {
+            "Name": "Identity",
+            "Value": "00000000-0000-0000-0000-00000000de59\\12338ec6-c5a5-40d0-b090-b8ecb262ac23"
+        },
+        {
+            "Name": "EmailAddresses",
+            "Value": "+SPO:SPO_35936139-8ab9-46a9-af9c-e5c7fb8e32d2@SPO_18ef4db8-89c2-45dc-8ca1-0fb60652de59"
+        }
+    ],
+    "SessionId": ""
+}

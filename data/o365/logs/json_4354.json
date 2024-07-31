@@ -1,0 +1,75 @@
+{
+    "CreationTime": "2023-01-24T14:23:16",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MemberAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "::ffff:52.114.128.197",
+    "UserId": "jdoe@gravywhale.com",
+    "AADGroupId": "00000000-0000-0000-0000-000000000000",
+    "CommunicationType": "Team",
+    "ExtraProperties": [],
+    "Members": [
+        {
+            "DisplayName": "Kasim Williams (Student)",
+            "Role": 1,
+            "UPN": "8063150@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Arianna Serrano (Student)",
+            "Role": 1,
+            "UPN": "10004650@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Emanuel Lazaro (Student)",
+            "Role": 1,
+            "UPN": "8062491@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Edwin Espinosa (Student)",
+            "Role": 1,
+            "UPN": "8059380@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Darnyll Oliveira (Student)",
+            "Role": 1,
+            "UPN": "10006502@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Bryton Simms (Student)",
+            "Role": 1,
+            "UPN": "10004315@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Diego Silverio (Student)",
+            "Role": 1,
+            "UPN": "10004264@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Moshiur Miraj (Student)",
+            "Role": 1,
+            "UPN": "8060651@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Arnaldo Guerrero (Student)",
+            "Role": 1,
+            "UPN": "10020935@bridgeportedu.net"
+        },
+        {
+            "DisplayName": "Leslye Jaramillo (Student)",
+            "Role": 1,
+            "UPN": "10002235@bridgeportedu.net"
+        }
+    ],
+    "TeamGuid": "19:QHViSLGxHclrRG9MhawTRPvm31vn3yMwO0rAexoUzc01@thread.tacv2",
+    "ItemName": "CAPSTONE 1",
+    "TeamName": "CAPSTONE 1",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

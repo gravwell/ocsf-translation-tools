@@ -1,0 +1,47 @@
+{
+    "CreationTime": "2023-01-24T14:22:40",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MailItemsAccessed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 2,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10030000A3749339",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "Exchange",
+    "ClientIP": "1.2.3.4",
+    "UserId": "jdoe@gravywhale.com",
+    "ClientIPAddress": "1.2.3.4",
+    "ClientInfoString": "Client=MSExchangeRPC",
+    "ClientProcessName": "OUTLOOK.EXE",
+    "ClientRequestId": "{67126F39-F929-4CC5-9BDF-45E176C5AC6A}",
+    "ClientVersion": "16.0.15928.20006",
+    "ExternalAccess": false,
+    "InternalLogonType": 0,
+    "LogonType": 0,
+    "LogonUserSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxGuid": "00000000-0000-0000-0000-000000000000",
+    "MailboxOwnerSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxOwnerUPN": "jdoe@gravywhale.com",
+    "OperationProperties": [
+        {
+            "Name": "MailAccessType",
+            "Value": "Sync"
+        },
+        {
+            "Name": "IsThrottled",
+            "Value": "False"
+        }
+    ],
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "SessionId": "00000000-0000-0000-0000-000000000000",
+    "Item": {
+        "Id": "LgAAAAAnRfir4gBEQYre2SWS7dO4AQBDNZcXVyRVSbKelJzHwv+AAAAAAAFPAAAB",
+        "ParentFolder": {
+            "Id": "LgAAAAAnRfir4gBEQYre2SWS7dO4AQBDNZcXVyRVSbKelJzHwv+AAAAAAAFPAAAB",
+            "Name": "Conflicts",
+            "Path": "Not Available"
+        }
+    }
+}

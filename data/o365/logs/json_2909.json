@@ -1,0 +1,54 @@
+{
+    "CreationTime": "2023-01-24T14:22:36",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MessageCreatedHasLink",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "::ffff:64.251.52.206",
+    "UserId": "jdoe@gravywhale.com",
+    "ChatThreadId": "19:11fef449-0600-4d99-a105-af03b9a143f6_783f947b-a307-4acc-9b8a-7a9fbf0b0350@unq.gbl.spaces",
+    "CommunicationType": "OneOnOne",
+    "ExtraProperties": [
+        {
+            "Key": "TimeZone",
+            "Value": "America/New_York"
+        },
+        {
+            "Key": "OsName",
+            "Value": "windows"
+        },
+        {
+            "Key": "OsVersion",
+            "Value": "10"
+        },
+        {
+            "Key": "Country",
+            "Value": "us"
+        },
+        {
+            "Key": "ClientName",
+            "Value": "skypeteams"
+        },
+        {
+            "Key": "ClientVersion",
+            "Value": "27/1.0.0.2023011910"
+        },
+        {
+            "Key": "ClientUtcOffsetSeconds",
+            "Value": "-18000"
+        }
+    ],
+    "MessageId": "1674570156490",
+    "MessageVersion": "1674570156490",
+    "ItemName": "19:11fef449-0600-4d99-a105-af03b9a143f6_783f947b-a307-4acc-9b8a-7a9fbf0b0350@unq.gbl.spaces",
+    "MessageURLs": [
+        "https://youtu.be/o-YBDTqX_ZU"
+    ],
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

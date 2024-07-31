@@ -1,0 +1,30 @@
+{
+    "AppAccessContext": {
+        "AADSessionId": "00000000-0000-0000-0000-000000000000",
+        "CorrelationId": "00000000-0000-0000-0000-000000000000",
+        "UniqueTokenId": "0000000000000000000000"
+    },
+    "CreationTime": "2023-01-24T14:21:43",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "PageViewed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 4,
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "SharePoint",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "jdoe@gravywhale.com",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "CustomUniqueId": true,
+    "EventSource": "SharePoint",
+    "ItemType": "Page",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

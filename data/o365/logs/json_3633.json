@@ -1,0 +1,32 @@
+{
+    "CreationTime": "2023-01-24T14:22:59",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MemberRemoved",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "UserId": "jdoe@gravywhale.com",
+    "AADGroupId": "00000000-0000-0000-0000-000000000000",
+    "CommunicationType": "Team",
+    "ExtraProperties": [],
+    "Members": [
+        {
+            "DisplayName": "Brianna Rodney (Student)",
+            "Role": 1,
+            "UPN": "10058435@bridgeportedu.net"
+        }
+    ],
+    "TeamGuid": "19:isNSCEgBw-Z1-JbRoa6MsWLG8e-Ar_dWqqSj3Js93D81@thread.tacv2",
+    "ItemName": "ENGLISH 11 - HONORS (Period 1)",
+    "TeamName": "ENGLISH 11 - HONORS (Period 1)",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

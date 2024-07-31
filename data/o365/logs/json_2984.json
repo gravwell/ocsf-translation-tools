@@ -1,0 +1,40 @@
+{
+    "AppAccessContext": {
+        "ClientAppId": "00000000-0000-0000-0000-000000000000",
+        "ClientAppName": "Media Analysis and Transformation Service",
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:38",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "FilePreviewed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 6,
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "OneDrive",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "jdoe@gravywhale.com",
+    "ApplicationDisplayName": "Media Analysis and Transformation Service",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "DoNotDistributeEvent": true,
+    "EventSource": "SharePoint",
+    "ItemType": "File",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "OfficeWordCA",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "FileSizeBytes": 12727,
+    "HighPriorityMediaProcessing": false,
+    "IsManagedDevice": false,
+    "SourceFileExtension": "docx",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "SourceFileName": "Becuase I Said So.docx",
+    "SourceRelativeUrl": "Documents/Desktop",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

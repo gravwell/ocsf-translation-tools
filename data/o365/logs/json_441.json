@@ -1,0 +1,94 @@
+{
+    "CreationTime": "2023-01-24T14:21:30",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Add registered users to device.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "Not Available",
+    "UserType": 4,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "jdoe@gravywhale.com",
+    "UserId": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "AdministrativeUnit",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "AdministrativeUnit",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Device"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "Device.ObjectID",
+            "NewValue": "00000000-0000-0000-0000-000000000000",
+            "OldValue": ""
+        },
+        {
+            "Name": "Device.DisplayName",
+            "NewValue": "DESKTOP-OQ7HP0T",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "Device Registration Service",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "User_a6f0a0ec-7b57-4e10-b86c-1b91d5a879b9",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 3
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}

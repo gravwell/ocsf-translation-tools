@@ -1,0 +1,87 @@
+{
+  "desc": "Translates Box Events",
+  "title": "Box Rule Translation",
+  "min_os_version": "Unknown",
+  "event_versions": [
+    {"0": "Unknown"}
+  ],
+  "rules": [
+    {
+      "@include": [
+        "schema_version.json",
+        "file_hosting_activity.json"
+      ]
+    },
+    {
+      "created_at": {
+        "@move": "time"
+      }
+    },
+    {
+      "event_type" : {
+        "@lookup": {
+          "name" : "activity_id",
+          "values" : {
+            "ITEM_UPLOAD" : 1,
+            "ITEM_DOWNLOAD" : 2,
+            "ITEM_COPY" : 6
+          },
+          "default" : 99,
+          "other" : "activity_name"   
+        }
+      }
+    },
+    {
+      "event_type" : {
+        "@enum": {
+          "name" : "activity_name",
+          "values" : {
+            "ITEM_UPLOAD" : "Upload",
+            "ITEM_DOWNLOAD": "Download",
+            "ITEM_COPY" : "Copy"
+          },
+          "other" : "activity_name"   
+        }
+      }
+    },
+    { 
+      "created_by.login" : {
+        "@move" : "actor.user.email_addr"
+      }
+    },
+    {
+      "ip_address" : {
+        "@move" : "src_endpoint.ip"
+      }
+    },
+    {
+      "source.type" : {
+        "@enum": {
+          "name" : "file.type_id",
+          "values" : {
+            "File" : 1,
+            "Folder" : 2
+          },
+          "default" : 99,
+          "other" : "file.type"   
+        }
+      }
+    },
+    {
+      "source.space_used" : {
+        "@move" : "file.size"
+      }
+    },
+    {
+      "source.name" : {
+        "@move" : "file.name"
+      }
+    },
+    {
+      "parent.name" : {
+        "@move" : "file.parent_folder"
+      }
+    }
+    
+  ]
+}

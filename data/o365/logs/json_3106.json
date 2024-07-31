@@ -1,0 +1,53 @@
+{
+    "CreationTime": "2023-01-24T14:22:41",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MailItemsAccessed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 50,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10037FFEA3378625",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "Exchange",
+    "UserId": "jdoe@gravywhale.com",
+    "AppId": "00000000-0000-0000-0000-000000000000",
+    "ClientAppId": "00000000-0000-0000-0000-000000000000",
+    "ClientIPAddress": "1.2.3.4",
+    "ClientInfoString": "Client=REST;Client=RESTSystem;;",
+    "ExternalAccess": false,
+    "InternalLogonType": 0,
+    "LogonType": 0,
+    "LogonUserSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxGuid": "00000000-0000-0000-0000-000000000000",
+    "MailboxOwnerSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxOwnerUPN": "jdoe@gravywhale.com",
+    "OperationProperties": [
+        {
+            "Name": "MailAccessType",
+            "Value": "Bind"
+        },
+        {
+            "Name": "IsThrottled",
+            "Value": "False"
+        }
+    ],
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "Folders": [
+        {
+            "FolderItems": [
+                {
+                    "ClientRequestId": "00000000-0000-0000-0000-000000000000",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 45665
+                }
+            ],
+            "Id": "LgAAAACezZaXXPFGRbnETj7n+xxXAQCDSpQmZYLNSZkxT+xy9tq2AAAAAAEMAAAB",
+            "Path": "\\Inbox"
+        }
+    ],
+    "OperationCount": 1,
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}
