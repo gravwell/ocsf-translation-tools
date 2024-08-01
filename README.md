@@ -44,7 +44,7 @@ The `-R` parameter specifies the directory of the translation rule while `-r` sp
 Run the below python script to format the result so each log entry is on its own line.
 
 ```
-python3 singleLine.py data/o365/o365_translated.json data/  o365_ocsf.json
+python3 singleLine.py data/o365/o365_translated.json o365_ocsf.json
 ```
 
 To copy the translated file to your local, first run `exit`. Then run `sudo docker ps -a` and get the container id for the ocsf-cli image. Then run
