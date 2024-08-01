@@ -1,5 +1,9 @@
 FROM openjdk:11
 WORKDIR /app
+LABEL org.opencontainers.image.source=https://github.com/gravwell/ocsf-translation-tools
+LABEL org.opencontainers.image.title=ocsf-cli
+LABEL org.opencontainers.image.documentation=https://github.com/gravwell/ocsf-translation-tools/blob/main/README.md
+LABEL org.opencontainers.image.description=Provides a container of the OCSF CLI used to translate source data into the OCSF format
 RUN mkdir lib
 COPY ocsf-cli/build/libs/ /app/lib
 COPY ocsf-parsers/build/libs/ /app/lib
