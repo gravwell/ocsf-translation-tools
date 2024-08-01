@@ -52,7 +52,7 @@ sudo docker cp <ContainerID>:/app/o365_ocsf.json
 Now the o365_ocsf.json file is ready to be uploaded into Gravwell or another SIEM for analysis. Note that all fields to be queried are now specified by the File Hosting Activity OCSF class.
 
 ## Updating this project
-The dockerfile for this project first copies the .jar files from the ocsf-cli, ocsf-parers, ocsf-schema, ocsf-translator and ocsf-utils folders. In the ocsf-cli.sh script, allof these .jars are added to the Java classpath, allowing the ocsf-cli to be invoked.
+The dockerfile for this project first copies the .jar files from the ocsf-cli, ocsf-parers, ocsf-schema, ocsf-translator and ocsf-utils folders. In the ocsf-cli.sh script, all of these .jars are added to the Java classpath, allowing the ocsf-cli to be invoked.
 
 If the code in any of these folders is changed, then the project must be rebuit with `./gradlew build` and the docker container must also be rebuilt.
 
