@@ -57,5 +57,6 @@ The dockerfile for this project first copies the .jar files from the ocsf-cli, o
 
 If the code in any of these folders is changed, then the project must be rebuit with `./gradlew build` and the docker container must also be rebuilt.
 
+The upstream repository for this project is the [official OCSF Java Tools](https://github.com/ocsf/ocsf-java-tools). The upstream repository should periodically be merged into this project.
 
 
