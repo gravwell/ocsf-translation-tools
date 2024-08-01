@@ -8,8 +8,7 @@ If you have already cloned the repository, you can build the docker image with:
 sudo docker build -t ocsf-cli .
 ```
 
-Note: If you have Java installed, feel free to experiment with the parsers in in the ocsf-parsers folder to try; to modify or make your own parers. Once you are done making changes be sure to run `./gradlew build` and then rebuild the container with the command above.
-
+Note: If you have Java installed, feel free to experiment with the parsers in the ocsf-parsers folder to execute, modify, or build your own parsers. Once you are done making changes, be sure to run `./gradlew build` and then rebuild the container with the command above.
 
 The `data/` folder contains sample, anonymized Office365 and Box logs. In this example, these logs will be converted into the File Hosting Activity OCSf class. See the rule.json files within the `data/` folder that specify the mapping from source to the OCSF standard. 
 
@@ -50,7 +49,7 @@ To copy the translated file to your local, first run `exit`. Then run `sudo dock
 sudo docker cp <ContainerID>:/app/o365_ocsf.json 
 ```
 
-Now the o365_ocsf.json file is ready to be uploaded into Gravwell or another SIEM for analysis. Note that all of fields to be queried are now specified by the File Hosting Activity OCSF class.
+Now the o365_ocsf.json file is ready to be uploaded into Gravwell or another SIEM for analysis. Note that all fields to be queried are now specified by the File Hosting Activity OCSF class.
 
 ## Updating this project
 The dockerfile for this project first copies the .jar files from the ocsf-cli, ocsf-parers, ocsf-schema, ocsf-translator and ocsf-utils folders. In the ocsf-cli.sh script, allof these .jars are added to the Java classpath, allowing the ocsf-cli to be invoked.
