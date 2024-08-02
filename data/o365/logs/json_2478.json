@@ -1,0 +1,52 @@
+{
+    "CreationTime": "2023-01-24T14:22:29",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MailItemsAccessed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 50,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10030000A3744CA8",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "Exchange",
+    "UserId": "jdoe@gravywhale.com",
+    "ClientIPAddress": "2603:10b6:208:178::26",
+    "ClientInfoString": "Client=OutlookService;microsoft.windowscommunicationsapps;",
+    "ExternalAccess": false,
+    "InternalLogonType": 0,
+    "LogonType": 0,
+    "LogonUserSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxGuid": "00000000-0000-0000-0000-000000000000",
+    "MailboxOwnerSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxOwnerUPN": "jdoe@gravywhale.com",
+    "OperationProperties": [
+        {
+            "Name": "MailAccessType",
+            "Value": "Bind"
+        },
+        {
+            "Name": "IsThrottled",
+            "Value": "False"
+        }
+    ],
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "Folders": [
+        {
+            "FolderItems": [
+                {
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 7874
+                }
+            ],
+            "Id": "LgAAAADHD00xQ2SETYPn+e0LsG3wAQDNfT3ChSSeQIrpFk7QKFFOAAAAAAEPAAAB",
+            "Path": "\\Drafts"
+        }
+    ],
+    "OperationCount": 1,
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

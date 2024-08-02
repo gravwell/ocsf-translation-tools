@@ -1,0 +1,103 @@
+{
+    "CreationTime": "2023-01-24T14:21:53",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MailItemsAccessed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 50,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10030000A3748149",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "Exchange",
+    "UserId": "jdoe@gravywhale.com",
+    "AppId": "00000000-0000-0000-0000-000000000000",
+    "ClientIPAddress": "1.2.3.4",
+    "ClientInfoString": "Client=OutlookService;MacOutlook/16.69.23010700 (Intelx64 Mac OS X 13.0 (Build 22A380));",
+    "ExternalAccess": false,
+    "InternalLogonType": 0,
+    "LogonType": 0,
+    "LogonUserSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxGuid": "00000000-0000-0000-0000-000000000000",
+    "MailboxOwnerSid": "S-0-0-00-0000000000-0000000000-0000000000-00000000",
+    "MailboxOwnerUPN": "jdoe@gravywhale.com",
+    "OperationProperties": [
+        {
+            "Name": "MailAccessType",
+            "Value": "Bind"
+        },
+        {
+            "Name": "IsThrottled",
+            "Value": "False"
+        }
+    ],
+    "OrganizationName": "gravywhale.onmicrosoft.com",
+    "OriginatingServer": "GW1234556 (15.00.0000.000)",
+    "SessionId": "00000000-0000-0000-0000-000000000000",
+    "Folders": [
+        {
+            "FolderItems": [
+                {
+                    "ClientRequestId": "911",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 146729
+                },
+                {
+                    "ClientRequestId": "929",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 366186
+                },
+                {
+                    "ClientRequestId": "929",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 365903
+                },
+                {
+                    "ClientRequestId": "929",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 158089
+                },
+                {
+                    "ClientRequestId": "929",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 160511
+                },
+                {
+                    "ClientRequestId": "929",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 130567
+                },
+                {
+                    "ClientRequestId": "952",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 133867
+                },
+                {
+                    "ClientRequestId": "952",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 656868
+                },
+                {
+                    "ClientRequestId": "952",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 665397
+                },
+                {
+                    "ClientRequestId": "952",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 61966
+                },
+                {
+                    "ClientRequestId": "952",
+                    "InternetMessageId": "<23423423lk23lk23l2@othercompany.mail>",
+                    "SizeInBytes": 121329
+                }
+            ],
+            "Id": "LgAAAADra/E5OQyzTrj3a6eN3+VqAQA1JFQCMtnETYTQWRLrNB4JAAAAAAEMAAAB",
+            "Path": "\\Inbox"
+        }
+    ],
+    "OperationCount": 11,
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CreationTime": "2023-01-24T14:21:31",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "TeamsSessionStarted",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "2607:fb90:b106:eb54:4c67:e214:118b:9e5c",
+    "ObjectId": "Android (1416/1.0.0.2022363703)",
+    "UserId": "jdoe@gravywhale.com",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

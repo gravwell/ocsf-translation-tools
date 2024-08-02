@@ -1,0 +1,20 @@
+plugins {
+    id "de.undercouch.download" version "5.6.0"
+    id 'io-ocsf.library-conventions'
+}
+
+group = project['artifactGroup'] + '.schema'
+version = project['artifactVersion']
+
+dependencies {
+    implementation project(':ocsf-utils')
+}
+
+//def schemaFileName = 'schema-' + version + '.tar.gz'
+
+tasks.register('downloadSchema', Download) {
+    src 'https://schema.ocsf.io/export/schema?extensions='
+    dest new File(buildDir, "schema.json")
+}
+
+tasks.test.dependsOn downloadSchema

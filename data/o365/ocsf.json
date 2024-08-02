@@ -1,0 +1,42 @@
+{
+  "category_uid": 5,
+  "metadata": {
+    "uid": "d7a3eec3-3ac1-4b6f-a588-4625e4d7eb3e",
+    "profiles": [],
+    "version": "1.0.0-rc.3"
+  },
+  "class_uid": 6006,
+  "time": "2023-01-24T14:21:15",
+  "type_uid": 600600,
+  "unmapped": {
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "ItemType": "File",
+    "Operation": "FileModifiedExtended",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 6,
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "Version": 1,
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "MSWAC",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "SourceFileName": "Becuase I Said So.docx",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "AppAccessContext": {
+      "AADSessionId": "00000000-0000-0000-0000-000000000000",
+      "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "ClientIP": "1.2.3.4",
+    "SourceFileExtension": "pptx",
+    "Workload": "OneDrive",
+    "SourceRelativeUrl": "Documents/Desktop",
+    "EventSource": "SharePoint",
+    "FileSizeBytes": 2667962,
+    "AssociatedAdminUnits": ["00000000-0000-0000-0000-000000000000"],
+    "UserId": "jdoe@gravywhale.com",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0
+  }
+}

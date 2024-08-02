@@ -1,0 +1,76 @@
+{
+    "CreationTime": "2023-01-24T14:21:55",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "UserLoggedIn",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 15,
+    "ResultStatus": "Success",
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "00000000-0000-0000-0000-000000000000",
+    "UserId": "jdoe@gravywhale.com",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "ResultStatusDetail",
+            "Value": "Redirect"
+        },
+        {
+            "Name": "UserAgent",
+            "Value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32"
+        },
+        {
+            "Name": "RequestType",
+            "Value": "OAuth2:Authorize"
+        }
+    ],
+    "ModifiedProperties": [],
+    "Actor": [
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 0
+        },
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "ActorIpAddress": "1.2.3.4",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 0
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "DeviceProperties": [
+        {
+            "Name": "OS",
+            "Value": "Windows 10"
+        },
+        {
+            "Name": "BrowserType",
+            "Value": "Edge"
+        },
+        {
+            "Name": "IsCompliantAndManaged",
+            "Value": "False"
+        },
+        {
+            "Name": "SessionId",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "ErrorNumber": "0",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

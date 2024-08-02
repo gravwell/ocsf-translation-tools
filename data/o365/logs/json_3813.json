@@ -1,0 +1,16 @@
+{
+    "CreationTime": "2023-01-24T14:23:05",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Validate",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 52,
+    "UserKey": "jdoe@gravywhale.com",
+    "UserType": 5,
+    "Version": 1,
+    "Workload": "SecurityComplianceCenter",
+    "UserId": "jdoe@gravywhale.com",
+    "AadAppId": "00000000-0000-0000-0000-000000000000",
+    "DataType": "rbacAccessCheck",
+    "RelativeUrl": "/DataInsights/DataInsightsService.svc/validate/rbacAccessCheck?tenantid=18ef4db8-89c2-45dc-8ca1-0fb60652de59",
+    "ResultCount": "0"
+}

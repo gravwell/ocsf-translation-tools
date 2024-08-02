@@ -1,0 +1,100 @@
+{
+    "CreationTime": "2023-01-24T14:22:43",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Add registered users to device.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "Not Available",
+    "UserType": 4,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "jdoe@gravywhale.com",
+    "UserId": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "AdministrativeUnit",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Device"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "Device.ObjectID",
+            "NewValue": "00000000-0000-0000-0000-000000000000",
+            "OldValue": ""
+        },
+        {
+            "Name": "Device.DisplayName",
+            "NewValue": "DESKTOP-MCM2QKI",
+            "OldValue": ""
+        },
+        {
+            "Name": "ActorId.ServicePrincipalNames",
+            "NewValue": "00000000-0000-0000-0000-0000000059a9;urn:ms-drs:enterpriseregistration.windows.net;urn:ms-drs:enterpriseregistration.microsoftonline.us",
+            "OldValue": ""
+        },
+        {
+            "Name": "SPN",
+            "NewValue": "00000000-0000-0000-0000-0000000059a9;urn:ms-drs:enterpriseregistration.windows.net;urn:ms-drs:enterpriseregistration.microsoftonline.us",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "Device Registration Service",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "User_271fbd84-47f8-4116-a02e-303b8163a4c4",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 3
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}

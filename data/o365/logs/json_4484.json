@@ -1,0 +1,24 @@
+{
+    "AppAccessContext": {
+        "IssuedAtTime": "2023-01-24T14:23:20",
+        "UniqueTokenId": "0000000000000000000000"
+    },
+    "CreationTime": "2023-01-24T15:17:31",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ChannelAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "UserId": "jdoe@gravywhale.com",
+    "ChannelGuid": "19:fbc102e9bd5c4afbbd74432370501723@thread.tacv2",
+    "ChannelType": "Standard",
+    "TeamGuid": "19:nc1j2C3XeV7IgBzdRQHXqtuSTmB681jxx4YBGuBoG6M1@thread.tacv2",
+    "ChannelName": "Class Notes and PowerPoints",
+    "TeamName": "Period 1 PHYSICAL SCIENCE - HONORS",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

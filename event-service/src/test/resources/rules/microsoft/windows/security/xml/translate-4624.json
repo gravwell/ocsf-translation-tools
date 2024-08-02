@@ -1,0 +1,21 @@
+{
+  "desc": "Translates Windows 4624 (successfully logon).",
+
+  "when": "EventID = '4624'",
+
+  "rules": [
+    {
+      "@include": [
+        "common.json",
+        "activity.json",
+        "microsoft/windows/windows.json",
+        "microsoft/windows/security/xml/translate-462x.json"
+      ]
+    },
+    {
+      "message": {
+        "@value": "An account was successfully logged on."
+      }
+    }
+  ]
+}

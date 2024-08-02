@@ -1,0 +1,29 @@
+{
+    "CreationTime": "2023-01-24T14:22:08",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "MemberAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "::ffff:52.114.158.249",
+    "UserId": "jdoe@gravywhale.com",
+    "AADGroupId": "00000000-0000-0000-0000-000000000000",
+    "CommunicationType": "Team",
+    "ExtraProperties": [],
+    "Members": [
+        {
+            "DisplayName": "Smith, Shaun",
+            "Role": 2,
+            "UPN": "SSmith1@bridgeportedu.net"
+        }
+    ],
+    "TeamGuid": "19:ZGpLCBLhleSixxN-pMFo4ONo_oh0deOunGdi2wMTKTY1@thread.tacv2",
+    "ItemName": "COLLEGE _ CAREER READINESS FOR AP I",
+    "TeamName": "COLLEGE _ CAREER READINESS FOR AP I",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

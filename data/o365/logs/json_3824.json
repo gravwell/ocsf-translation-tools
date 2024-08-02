@@ -1,0 +1,30 @@
+{
+    "AppAccessContext": {
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-24T14:23:05",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "AddedToGroup",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 14,
+    "UserKey": "i:0h.f|membership|0000000000000000@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "OneDrive",
+    "ClientIP": "",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "jdoe@gravywhale.com",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "Web",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "EventData": "<Group>Limited Access System Group For List 708fc341-deac-4cee-9f11-125a177a9132</Group>",
+    "TargetUserOrGroupType": "Member",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "TargetUserOrGroupName": "123456789@gravywhale.com",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

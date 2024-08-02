@@ -1,0 +1,31 @@
+{
+  "desc": "Translates Windows 4625 (failed logon).",
+
+  "when": "EventID = '4625'",
+
+  "lookup": {
+    "name": "EventID",
+    "value": "4625"
+  },
+
+  "rules": [
+    {
+      "@include": [
+        "common.json",
+        "activity.json",
+        "microsoft/windows/windows.json",
+        "microsoft/windows/security/xml/translate-462x.json"
+      ]
+    },
+    {
+      "message": {
+        "@value": "An account failed to log on."
+      }
+    },
+    {
+      "EventData.FailureReason": {
+        "@move": "status_detail"
+      }
+    }
+  ]
+}

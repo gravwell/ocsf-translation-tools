@@ -1,0 +1,110 @@
+{
+    "CreationTime": "2023-01-24T14:21:21",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Remove member from group.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "jdoe@gravywhale.com",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "jdoe@gravywhale.com",
+    "UserId": "jdoe@gravywhale.com",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "AdministrativeUnit",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "AdministrativeUnit",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Group"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "Group.ObjectID",
+            "NewValue": "",
+            "OldValue": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "Group.DisplayName",
+            "NewValue": "VERY FUN NEW FILE NAME",
+            "OldValue": "COLLEGE _ CAREER READINESS FOR AP I"
+        },
+        {
+            "Name": "Group.WellKnownObjectName",
+            "NewValue": "",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 3
+        },
+        {
+            "ID": "Microsoft Teams Services",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "User_f63474d3-336c-447e-90da-f28a6b47294b",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "User_a6c5dd55-8865-47fd-bdb2-56b03bcfcb5c",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 3
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

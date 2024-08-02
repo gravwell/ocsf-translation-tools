@@ -1,0 +1,31 @@
+{
+    "AppAccessContext": {
+        "CorrelationId": "00000000-0000-0000-0000-000000000000"
+    },
+    "CreationTime": "2023-01-24T14:22:50",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "FileAccessedExtended",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 6,
+    "UserKey": "i:0h.f|membership|urn%3aspo%3aanon#c72a74647a2c849a0b895df7f0c3b64b0df6ee00d9aa0049b2aad0b8228ce842",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "OneDrive",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "https://gravywhale.sharepoint.com/sites/Nashville/SiteAssets/file.docx",
+    "UserId": "urn:spo:anon#c72a74647a2c849a0b895df7f0c3b64b0df6ee00d9aa0049b2aad0b8228ce842",
+    "CorrelationId": "00000000-0000-0000-0000-000000000000",
+    "EventSource": "SharePoint",
+    "ItemType": "File",
+    "ListId": "00000000-0000-0000-0000-000000000000",
+    "ListItemUniqueId": "00000000-0000-0000-0000-000000000000",
+    "Site": "00000000-0000-0000-0000-000000000000",
+    "UserAgent": "python-requests/2.24.0",
+    "WebId": "00000000-0000-0000-0000-000000000000",
+    "HighPriorityMediaProcessing": false,
+    "IsManagedDevice": false,
+    "SourceFileExtension": "xlsx",
+    "SiteUrl": "https://gravywhale.sharepoint.com/sites/Nashville/",
+    "SourceFileName": "Becuase I Said So.docx",
+    "SourceRelativeUrl": "Documents/Desktop"
+}

@@ -1,0 +1,22 @@
+{
+    "CreationTime": "2023-01-24T14:23:08",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Get-QuarantineMessage",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 18,
+    "ResultStatus": "Success",
+    "UserKey": "jdoe@gravywhale.com",
+    "UserType": 2,
+    "Version": 1,
+    "Workload": "SecurityComplianceCenter",
+    "ObjectId": "",
+    "UserId": "jdoe@gravywhale.com",
+    "SecurityComplianceCenterEventType": 0,
+    "ClientApplication": "EMC",
+    "CmdletVersion": "...",
+    "EffectiveOrganization": "bridgeportedunet.onmicrosoft.com",
+    "NonPIIParameters": "-PageSize \"<SNIP-PII>\" -Page \"<SNIP-PII>\" -StartReceivedDate \"<SNIP-PII>\" -EndReceivedDate \"<SNIP-PII>\" -StartExpiresDate \"<SNIP-PII>\" -EndExpiresDate \"<SNIP-PII>\" -QuarantineTypes (\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\") -ReleaseStatus (\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\",\"<SNIP-PII>\")",
+    "Parameters": "-PageSize \"100\" -Page \"1\" -StartReceivedDate \"12/25/2022 5:00:00 AM\" -EndReceivedDate \"1/25/2023 5:00:00 AM\" -StartExpiresDate \"1/24/2023 5:00:00 AM\" -EndExpiresDate \"2/24/2023 5:00:00 AM\" -QuarantineTypes (\"TransportRule\",\"Bulk\",\"Phish\",\"Malware\",\"Spam\",\"HighConfPhish\",\"DataLossPrevention\") -ReleaseStatus (\"NOTRELEASED\",\"RELEASED\",\"REQUESTED\",\"APPROVED\",\"DENIED\")",
+    "StartTime": "2023-01-24T14:23:08",
+    "UserServicePlan": ""
+}

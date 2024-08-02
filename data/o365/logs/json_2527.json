@@ -1,0 +1,81 @@
+{
+    "CreationTime": "2023-01-24T14:22:30",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Update group.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "Not Available",
+    "UserType": 4,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "Group_00000000-0000-0000-0000-000000000000",
+    "UserId": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "AdministrativeUnit",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Group"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "TargetId.GroupType",
+            "NewValue": "Unified",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "Office 365 SharePoint Online",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "Group_925999a2-8ad5-40e6-a223-c1aff8c0dea1",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "US HISTORY - S2 P1B - 22/23",
+            "Type": 1
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}

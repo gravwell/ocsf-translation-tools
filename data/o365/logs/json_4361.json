@@ -1,0 +1,51 @@
+{
+    "CreationTime": "2023-01-24T14:23:17",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ReactedToMessage",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "ClientIP": "::ffff:64.251.52.232",
+    "UserId": "jdoe@gravywhale.com",
+    "ChatThreadId": "19:5fea9007-ede9-496e-b4f4-7dfc69a71d73_ba707cd7-56d1-4fb1-be4f-a90790eeb8d2@unq.gbl.spaces",
+    "CommunicationType": "OneOnOne",
+    "ExtraProperties": [
+        {
+            "Key": "TimeZone",
+            "Value": "America/New_York"
+        },
+        {
+            "Key": "OsName",
+            "Value": "windows"
+        },
+        {
+            "Key": "OsVersion",
+            "Value": "NT 10.0"
+        },
+        {
+            "Key": "Country",
+            "Value": "us"
+        },
+        {
+            "Key": "ClientName",
+            "Value": "skypeteams"
+        },
+        {
+            "Key": "ClientVersion",
+            "Value": "27/23010505600"
+        },
+        {
+            "Key": "ClientUtcOffsetSeconds",
+            "Value": "-18000"
+        }
+    ],
+    "MessageId": "1674485082764",
+    "MessageReactionType": "laugh",
+    "MessageVersion": "1674570197494",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

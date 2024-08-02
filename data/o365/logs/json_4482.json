@@ -1,0 +1,24 @@
+{
+    "AppAccessContext": {
+        "IssuedAtTime": "2023-01-24T14:23:20",
+        "UniqueTokenId": "0000000000000000000000"
+    },
+    "CreationTime": "2023-01-24T15:19:51",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "TeamSettingChanged",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "UserId": "jdoe@gravywhale.com",
+    "Name": "Team name",
+    "TeamGuid": "19:wWPB4_cskZODrtCATS1cPybApY_DHkD8vPFyXQqVf8M1@thread.tacv2",
+    "NewValue": "Period 2 PHYSICAL SCIENCE - HONORS",
+    "OldValue": "PHYSICAL SCIENCE - HONORS",
+    "TeamName": "Period 2 PHYSICAL SCIENCE - HONORS",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "CreationTime": "2023-01-24T14:22:39",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "UserLoggedIn",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 15,
+    "ResultStatus": "Success",
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "Unknown",
+    "UserId": "jdoe@gravywhale.com",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "ResultStatusDetail",
+            "Value": "Redirect"
+        },
+        {
+            "Name": "UserAgent",
+            "Value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55"
+        },
+        {
+            "Name": "RequestType",
+            "Value": "OAuth2:Authorize"
+        }
+    ],
+    "ModifiedProperties": [],
+    "Actor": [
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 0
+        },
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "ActorIpAddress": "1.2.3.4",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 0
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "DeviceProperties": [
+        {
+            "Name": "Id",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "DisplayName",
+            "Value": "PC-HOSTNAME"
+        },
+        {
+            "Name": "OS",
+            "Value": "Windows 10"
+        },
+        {
+            "Name": "BrowserType",
+            "Value": "Edge"
+        },
+        {
+            "Name": "IsCompliant",
+            "Value": "True"
+        },
+        {
+            "Name": "IsCompliantAndManaged",
+            "Value": "True"
+        },
+        {
+            "Name": "TrustType",
+            "Value": "1"
+        },
+        {
+            "Name": "SessionId",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "ErrorNumber": "0",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

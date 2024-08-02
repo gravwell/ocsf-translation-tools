@@ -1,0 +1,22 @@
+{
+    "CreationTime": "2023-01-24T14:21:29",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ViewRuntimeForm",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "10032000eb41b315",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "uE3vGMKJ3EWMoQ-2BlLeWUAPFbL1kCBHsZYF4cDDTpBUNUczQkIxRVZBNlBCMFhGVFNSSEM2MUdPOSQlQCNjPTEu",
+    "UserId": "jdoe@gravywhale.com",
+    "FormId": "uE3vGMKJ3EWMoQ-2BlLeWUAPFbL1kCBHsZYF4cDDTpBUNUczQkIxRVZBNlBCMFhGVFNSSEM2MUdPOSQlQCNjPTEu",
+    "FormName": "Getting to Know Each Other: How You Learn - Semester 2",
+    "FormsUserType": 3,
+    "SourceApp": "unknown",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

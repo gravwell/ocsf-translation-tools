@@ -1,0 +1,22 @@
+{
+    "CreationTime": "2023-01-24T14:22:50",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ViewRuntimeForm",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "100320017764022e",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "uE3vGMKJ3EWMoQ-2BlLeWaozbkuM2SxKikn8TAmukGVUNURaWU1TRzA4MlpOMlpGTFNKM01EME9UOSQlQCNjPTEu",
+    "UserId": "jdoe@gravywhale.com",
+    "FormId": "uE3vGMKJ3EWMoQ-2BlLeWaozbkuM2SxKikn8TAmukGVUNURaWU1TRzA4MlpOMlpGTFNKM01EME9UOSQlQCNjPTEu",
+    "FormName": "Sociology - First Day Check-In",
+    "FormsUserType": 3,
+    "SourceApp": "unknown",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

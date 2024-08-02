@@ -1,0 +1,24 @@
+{
+    "CreationTime": "2023-01-24T14:22:21",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "CreateResponse",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 66,
+    "ResultStatus": "Succeeded",
+    "UserKey": "1003bffda438d6a4",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftForms",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "uE3vGMKJ3EWMoQ-2BlLeWYcyz3YG8D1AgFON-39MWhJUQTFZNjM0RkpNOEJEVFlaVEFRSk9EUjkwTyQlQCNjPTEu",
+    "UserId": "jdoe@gravywhale.com",
+    "ActivityParameters": "{\"ResponseId\":21}",
+    "FormId": "uE3vGMKJ3EWMoQ-2BlLeWYcyz3YG8D1AgFON-39MWhJUQTFZNjM0RkpNOEJEVFlaVEFRSk9EUjkwTyQlQCNjPTEu",
+    "FormName": "AP Statistics Course Evaluation Fall 22-23",
+    "FormsUserType": 3,
+    "SourceApp": "ms-formweb",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

@@ -1,0 +1,129 @@
+{
+  "desc": "Translates Windows Office 365 Events",
+  "title": "Office 365 Rule Translation",
+  "min_os_version": "Unknown",
+  "event_versions": [
+    {"0": "Unknown"}
+  ],
+  "rules": [
+    {
+      "@include": [
+        "schema_version.json",
+        "file_hosting_activity.json"
+      ]
+    },
+    {
+      "CreationTime": {
+        "@move": "time"
+      }
+    },
+    {
+      "Operation" : {
+        "@lookup": {
+          "name" : "activity_id",
+          "values" : {
+            "FileUploaded" : 1,
+            "FileDownloaded": 2,
+            "FileAccessed" : 14,
+            "FileAccessedExtended" : 14,
+            "FilePreviewed" : 9,
+            "FileModified" : 3,
+            "FileModifiedExtended": 3,
+            "FileDeleted" : 4,
+            "FileRenamed" : 5
+          },
+          "default" : 99,
+          "other" : "activity_name"   
+        }
+      }
+    },
+    {
+      "Operation" : {
+        "@lookup": {
+          "name" : "activity_name",
+          "values" : {
+            "FileUploaded" : "Upload",
+            "FileDownloaded": "Download ",
+            "FileAccessed" : "Open",
+            "FileAccessedExtended" : "Open",
+            "FilePreviewed" : "Preview",
+            "FileModified" : "Update",
+            "FileModifiedExtended": "Update",
+            "FileDeleted" : "Delete",
+            "FileRenamed" : "Reanme"
+          },
+          "other" : "activity_name"   
+        }
+      }
+    },
+    {
+      "OrganizationId" : { 
+        "@move" : "actor.user.organization.uid"
+      }
+    },
+    { 
+      "UserKey" : {
+        "@move" : "actor.user.uid"
+      }
+    },
+    {
+      "UserType" : {
+        "@move" : "actor.user.type"
+      }
+    },
+    {
+      "Workload" : {
+        "@move" : "metadata.product.name"
+      }
+    },
+    {
+      "ClientIP" : {
+        "@move" : "src_endpoint.ip"
+      }
+    },
+    {
+      "ObjectId" : {
+        "@move" : "file.path"
+      }
+    },
+    {
+      "UserId" : {
+        "@move" : "actor.user.email_addr"
+      }
+    },
+    {
+      "ItemType" : {
+        "@enum": {
+          "name" : "file.type_id",
+          "values" : {
+            "File" : 1,
+            "Folder" : 2
+          },
+          "default" : 99,
+          "other" : "file.type"   
+        }
+      }
+    },
+    {
+      "FileSizeBytes" : {
+        "@move" : "file.size"
+      }
+    },
+    {
+      "SourceFileExtension" : {
+        "@move" : "file.mime_type"
+      }
+    },
+    {
+      "SourceFileName" : {
+        "@move" : "file.name"
+      }
+    },
+    {
+      "SourceRelativeUrl" : {
+        "@move" : "file.parent_folder"
+      }
+    }
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "AppAccessContext": {
+        "IssuedAtTime": "2023-01-24T14:23:20",
+        "UniqueTokenId": "0000000000000000000000"
+    },
+    "CreationTime": "2023-01-24T15:25:19",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "ChannelAdded",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 25,
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "MicrosoftTeams",
+    "UserId": "jdoe@gravywhale.com",
+    "ChannelGuid": "19:0c144ff04f044f289fffe11eedb9ae29@thread.tacv2",
+    "ChannelType": "Standard",
+    "TeamGuid": "19:wWPB4_cskZODrtCATS1cPybApY_DHkD8vPFyXQqVf8M1@thread.tacv2",
+    "ChannelName": "Class Handouts and Worksheets",
+    "TeamName": "Period 2 PHYSICAL SCIENCE - HONORS",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

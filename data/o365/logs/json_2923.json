@@ -1,0 +1,96 @@
+{
+    "CreationTime": "2023-01-24T14:22:36",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "UserLoginFailed",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 15,
+    "ResultStatus": "Failed",
+    "UserKey": "00000000-0000-0000-0000-000000000000",
+    "UserType": 0,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ClientIP": "1.2.3.4",
+    "ObjectId": "00000000-0000-0000-0000-000000000000",
+    "UserId": "jdoe@gravywhale.com",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "ResultStatusDetail",
+            "Value": "UserError"
+        },
+        {
+            "Name": "UserAgent",
+            "Value": "Windows-AzureAD-Authentication-Provider/1.0"
+        },
+        {
+            "Name": "UserAuthenticationMethod",
+            "Value": "16"
+        },
+        {
+            "Name": "RequestType",
+            "Value": "OAuth2:Token"
+        }
+    ],
+    "ModifiedProperties": [],
+    "Actor": [
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 0
+        },
+        {
+            "ID": "jdoe@gravywhale.com",
+            "Type": 5
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "ActorIpAddress": "1.2.3.4",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 0
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000",
+    "ApplicationId": "00000000-0000-0000-0000-000000000000",
+    "DeviceProperties": [
+        {
+            "Name": "Id",
+            "Value": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "Name": "DisplayName",
+            "Value": "PC-HOSTNAME"
+        },
+        {
+            "Name": "OS",
+            "Value": "Windows"
+        },
+        {
+            "Name": "BrowserType",
+            "Value": "Other"
+        },
+        {
+            "Name": "IsCompliant",
+            "Value": "True"
+        },
+        {
+            "Name": "IsCompliantAndManaged",
+            "Value": "True"
+        },
+        {
+            "Name": "TrustType",
+            "Value": "1"
+        }
+    ],
+    "ErrorNumber": "50126",
+    "LogonError": "InvalidUserNameOrPassword",
+    "AssociatedAdminUnits": [
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000",
+        "00000000-0000-0000-0000-000000000000"
+    ]
+}

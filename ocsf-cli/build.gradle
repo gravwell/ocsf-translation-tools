@@ -1,0 +1,34 @@
+plugins {
+    id 'io-ocsf.java-conventions'
+    // Apply the application plugin to add support for building a CLI application in Java.
+    id 'application'
+}
+
+group = project['artifactGroup'] + '.cli'
+version = project['artifactVersion']
+
+dependencies {
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.23.1'
+
+    implementation project(':ocsf-utils')
+    implementation project(':ocsf-schema')
+    implementation project(':ocsf-parsers')
+    implementation project(':ocsf-translator')
+}
+
+// Apply a specific Java toolchain to ease working on different environments.
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(11)
+    }
+}
+
+// Add logback.xml dir to the classpath: lib/etc
+startScripts {
+    classpath += files('etc')
+}
+
+application {
+    // Define the main class for the application.
+    mainClass = 'io.ocsf.schema.cli.Main'
+}

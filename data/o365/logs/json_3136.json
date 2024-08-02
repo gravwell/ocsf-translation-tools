@@ -1,0 +1,102 @@
+{
+    "CreationTime": "2023-01-24T14:22:42",
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Operation": "Update device.",
+    "OrganizationId": "00000000-0000-0000-0000-000000000000",
+    "RecordType": 8,
+    "ResultStatus": "Success",
+    "UserKey": "Not Available",
+    "UserType": 4,
+    "Version": 1,
+    "Workload": "AzureActiveDirectory",
+    "ObjectId": "Device_00000000-0000-0000-0000-000000000000",
+    "UserId": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+    "AzureActiveDirectoryEventType": 1,
+    "ExtendedProperties": [
+        {
+            "Name": "additionalDetails",
+            "Value": "{\"Many Interesting Facts\"}"
+        },
+        {
+            "Name": "extendedAuditEventCategory",
+            "Value": "Device"
+        }
+    ],
+    "ModifiedProperties": [
+        {
+            "Name": "CloudDeviceOSVersion",
+            "NewValue": "[\r\n  \"10.0.19045.2486\"\r\n]",
+            "OldValue": "[\r\n  \"10.0.19045.2364\"\r\n]"
+        },
+        {
+            "Name": "DeviceOSVersion",
+            "NewValue": "[\r\n  \"10.0.19045.2486\"\r\n]",
+            "OldValue": "[\r\n  \"10.0.19045.2364\"\r\n]"
+        },
+        {
+            "Name": "Included Updated Properties",
+            "NewValue": "CloudDeviceOSVersion, DeviceOSVersion",
+            "OldValue": ""
+        },
+        {
+            "Name": "TargetId.DeviceId",
+            "NewValue": "00000000-0000-0000-0000-000000000000",
+            "OldValue": ""
+        },
+        {
+            "Name": "TargetId.DeviceOSType",
+            "NewValue": "Windows",
+            "OldValue": ""
+        },
+        {
+            "Name": "TargetId.DeviceTrustType",
+            "NewValue": "AzureAd",
+            "OldValue": ""
+        }
+    ],
+    "Actor": [
+        {
+            "ID": "Microsoft.Intune",
+            "Type": 1
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "ServicePrincipal_00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        }
+    ],
+    "ActorContextId": "00000000-0000-0000-0000-000000000000",
+    "InterSystemsId": "00000000-0000-0000-0000-000000000000",
+    "IntraSystemId": "00000000-0000-0000-0000-000000000000",
+    "SupportTicketId": "",
+    "Target": [
+        {
+            "ID": "Device_85ceb362-872e-4b45-9c8c-ab1625d6bed2",
+            "Type": 2
+        },
+        {
+            "ID": "00000000-0000-0000-0000-000000000000",
+            "Type": 2
+        },
+        {
+            "Id": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA00000000000000000000000000000000",
+            "Type": 2
+        },
+        {
+            "ID": "BPS--2TVZ303",
+            "Type": 1
+        }
+    ],
+    "TargetContextId": "00000000-0000-0000-0000-000000000000"
+}
